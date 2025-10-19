@@ -9,7 +9,7 @@ Me considero una profesional con un enfoque colaborativo, orientada a resolver p
 
 ## <img src="AI Automation.gif" width="35" style="vertical-align:middle;"/> Formación
 
-- Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) – 1º curso  
+- Ciclo Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) – Cursando segundo año  
 - Programación **Java** Básico
 - **Java**: Fundamentos de la programación orientada a objetos
 
