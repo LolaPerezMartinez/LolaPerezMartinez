@@ -1,4 +1,4 @@
-![Banner de presentación](Blue%20Modern%20Geometric%20LinkedIn%20Banner%20.png)
+![Banner de presentación](Banner.png)
 
 ## <img src="Information.gif" width="35" style="vertical-align:text-top;"/>Sobre mí
 
