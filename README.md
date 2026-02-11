@@ -50,7 +50,7 @@ Me considero una profesional con un enfoque colaborativo, orientada a resolver p
 ## <img src="Growth Chart.gif" width="40" style="vertical-align:middle;"/>GitHub Stats 
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=LolaPerezMartinez&show_icons=true&theme=radical&cache_seconds=86400" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LolaPerezMartinez&show_icons=true&theme=radical" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LolaPerezMartinez&layout=compact&theme=radical" height="150" alt="languages graph" />
 </div>
 
